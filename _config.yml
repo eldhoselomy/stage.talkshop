@@ -1,1 +1,1 @@
-include: [".well-known", ".well-known/talkshop/"]
+include: [".well-known", "profile"]

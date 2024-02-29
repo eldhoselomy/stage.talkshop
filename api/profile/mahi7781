@@ -1,0 +1,21 @@
+{
+   "status":"success",
+   "data":{
+      "username":"mahi7781",
+      "profile_image":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_dhoni.jpeg?alt=media&token=2b468a8f-b495-4122-8c40-1288e4f674da",
+      "followers":45943,
+      "following":30,
+      "posts":[
+        {
+            "post_id":"dhoni_with_dogs",
+            "asset":{
+               "type":"video",
+               "thumbnail_url":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dhoni.jpg?alt=media&token=f64c4a30-7c35-4b02-818d-12946732130c",
+               "url":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dhoni.mp4?alt=media&token=5c42cf96-8392-477e-a5e2-66c6a2cf8148"
+            },
+            "username":"mahi7781",
+            "profile_image":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_dhoni.jpeg?alt=media&token=2b468a8f-b495-4122-8c40-1288e4f674da",
+            "likes":50400
+         }]
+   }
+}

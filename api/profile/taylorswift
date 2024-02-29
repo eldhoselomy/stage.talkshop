@@ -1,0 +1,21 @@
+{
+   "status":"success",
+   "data":{
+      "username":"taylorswift",
+      "profile_image":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_swift.jpeg?alt=media&token=1a34fbaa-b49a-40b2-95cf-516727529e18",
+      "followers":11159,
+      "following":64,
+      "posts":[
+                 {
+            "post_id":"taylorswift_song",
+            "asset":{
+               "type":"video",
+               "url":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/taylorswift.mp4?alt=media&token=5a279145-882b-4d18-bb8b-e4a27f679a59",
+               "thumbnail_url":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/taylorswift.jpg?alt=media&token=9fed6a8b-db0c-4f8e-8b2a-8a86b70dad49"
+            },
+            "username":"taylorswift",
+            "profile_image":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_swift.jpeg?alt=media&token=1a34fbaa-b49a-40b2-95cf-516727529e18",
+            "likes":860000000
+         }]
+   }
+}

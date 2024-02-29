@@ -1,0 +1,21 @@
+{
+   "status":"success",
+   "data":{
+      "username":"google",
+      "profile_image":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_google.jpeg?alt=media&token=712b2c88-8e89-4d19-982c-9a52f77a1d30",
+      "followers":4539,
+      "following":120,
+      "posts":[
+                 {
+            "post_id":"google_doodle",
+            "asset":{
+               "type":"video",
+               "url":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/google.mp4?alt=media&token=07e998c9-2816-43e7-9216-5c06df137543",
+               "thumbnail_url":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/google.jpg?alt=media&token=e4642d08-15ae-469a-a96f-62fa0d100dfc"
+            },
+            "username":"google",
+            "profile_image":"https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_google.jpeg?alt=media&token=712b2c88-8e89-4d19-982c-9a52f77a1d30",
+            "likes":730000000
+         }]
+   }
+}

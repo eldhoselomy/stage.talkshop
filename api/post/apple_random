@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+      "post_id": "apple_random",
+      "asset": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/apple_random.jpg?alt=media&token=c76d7c4d-480e-4b41-a2d8-4fe623089a98",
+        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/apple_random.jpg?alt=media&token=c76d7c4d-480e-4b41-a2d8-4fe623089a98"
+      },
+      "username": "apple",
+      "profile_image": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_apple.jpeg?alt=media&token=c7b4242a-ae1e-4eb7-99b5-c5688a457f2a",
+      "likes": 30000,
+    "comments": 343,
+    "caption": "Aisa dekha nahi khoobsurat koi \nJism jaise Ajanta ki murat koi \nJism jaise nigahon pe jadoo koi \nJism nagma koi jism khushboo koi"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+      "post_id": "apple_underwater",
+      "asset": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/apple.jpg?alt=media&token=b30a83b4-c28e-4d28-bac1-3ec32958cb30",
+        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/apple.jpg?alt=media&token=b30a83b4-c28e-4d28-bac1-3ec32958cb30"
+      },
+      "username": "apple",
+      "profile_image": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_apple.jpeg?alt=media&token=c7b4242a-ae1e-4eb7-99b5-c5688a457f2a",
+      "likes": 330000000,
+    "comments": 343,
+    "caption": "Aisa dekha nahi khoobsurat koi \nJism jaise Ajanta ki murat koi \nJism jaise nigahon pe jadoo koi \nJism nagma koi jism khushboo koi"
+  }
+}

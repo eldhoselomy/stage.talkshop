@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": {
+      "post_id": "virat_kohli_ad",
+      "asset": {
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/kohli.jpg?alt=media&token=e4d6affe-c4d5-4d40-bf95-88e654da73b4",
+        "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/kohli.jpg?alt=media&token=e4d6affe-c4d5-4d40-bf95-88e654da73b4"
+      },
+      "username": "virat.kohli",
+      "profile_image": "https://firebasestorage.googleapis.com/v0/b/helloworld-5cf88.appspot.com/o/dp_virat.jpeg?alt=media&token=1ad87e8f-ba9c-40a1-93d2-5ecec05a9792",
+      "likes": 240000000,
+    "comments": 343,
+    "caption": "Aisa dekha nahi khoobsurat koi \nJism jaise Ajanta ki murat koi \nJism jaise nigahon pe jadoo koi \nJism nagma koi jism khushboo koi"
+  }
+}
